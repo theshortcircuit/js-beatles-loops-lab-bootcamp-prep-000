@@ -18,3 +18,10 @@ function johnLennonFacts(facts){
   return newfacts
 }
 
+function iLoveTheBeatles(number){
+  let i = number
+  var beatles=[]
+  do {
+    beatles.push('I love the Beatles!')
+  } while (i<15)
+}
